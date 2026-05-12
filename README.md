@@ -10,8 +10,11 @@ You are hired as a Financial Data Analyst by Blackrock, a major global banking i
 The leadership is particularly interested in understanding:
 
 ● How do customers interact with different account types (e.g., savings, current, credit)?
+
 ● What are the trends in debit vs. credit transactions across segments?
+
 ● Can we identify accounts with unusually high risk or inconsistent financial activity?
+
 ● What transaction behaviors correlate with lower account balances or overdraft incidents?
 
 # Project Objective:
@@ -19,3 +22,6 @@ The leadership is particularly interested in understanding:
 Build a complete Customer Financial Behavior and Risk Analysis Report using Python for data handling. This report should clean and consolidate Blackrock’ customer account data, uncover transaction insights, and help decision-makers align customer strategies with
 usage trends and financial risk indicators.
 
+# Dataset:
+
+- <a href="https://github.com/Ayushh1512/Financial_Risk_Analysis_with_Python--Blackrock/blob/main/blackrock.csv">Dataset</a>
