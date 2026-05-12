@@ -93,5 +93,36 @@ usage trends and financial risk indicators.
 
 - <a href="https://github.com/Ayushh1512/Financial_Risk_Analysis_with_Python--Blackrock/blob/24e1498998a45826a10add76a37db2647c6cd821/Financial%20Risk%20Analysis%20with%20Python-Blackrock_PDF.pdf">PPT:</a>
 
+# Visualizations:
 
+<img width="2000" height="1125" alt="image" src="https://github.com/user-attachments/assets/3a3a29a9-a5ca-4710-8c9e-6326f4d1ffca" />
+
+
+
+<img width="2000" height="1125" alt="image" src="https://github.com/user-attachments/assets/983dc732-8279-4a52-b7e4-473235a504f9" />
+
+
+<img width="2000" height="1125" alt="image" src="https://github.com/user-attachments/assets/2634787e-77ed-4695-923b-9771b01f6b97" />
+
+
+
+
+<img width="2000" height="1125" alt="image" src="https://github.com/user-attachments/assets/8ad20cd4-a93b-4724-8825-55f7d8a8e977" />
+
+
+
+
+<img width="2000" height="1125" alt="image" src="https://github.com/user-attachments/assets/d281a00e-38a1-4fbb-8cf5-d3af2681b108" />
+
+
+
+<img width="2000" height="1125" alt="image" src="https://github.com/user-attachments/assets/ea44f775-a4fd-4cf7-9c3f-80e28e472720" />
+
+
+
+<img width="2000" height="1125" alt="image" src="https://github.com/user-attachments/assets/ef4a2bfd-3e92-41b6-a56c-e0cda15b305d" />
+
+
+
+<img width="2000" height="1125" alt="image" src="https://github.com/user-attachments/assets/6540cedc-f00b-4423-afbb-434b6c4eed53" />
 
