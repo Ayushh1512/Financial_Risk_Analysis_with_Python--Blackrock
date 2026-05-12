@@ -95,24 +95,7 @@ usage trends and financial risk indicators.
 
 # Visualizations:
 
-<img width="2000" height="1125" alt="image" src="https://github.com/user-attachments/assets/3a3a29a9-a5ca-4710-8c9e-6326f4d1ffca" />
-
-
-
 <img width="2000" height="1125" alt="image" src="https://github.com/user-attachments/assets/983dc732-8279-4a52-b7e4-473235a504f9" />
-
-
-<img width="2000" height="1125" alt="image" src="https://github.com/user-attachments/assets/2634787e-77ed-4695-923b-9771b01f6b97" />
-
-
-
-
-<img width="2000" height="1125" alt="image" src="https://github.com/user-attachments/assets/8ad20cd4-a93b-4724-8825-55f7d8a8e977" />
-
-
-
-
-<img width="2000" height="1125" alt="image" src="https://github.com/user-attachments/assets/d281a00e-38a1-4fbb-8cf5-d3af2681b108" />
 
 
 
@@ -126,3 +109,25 @@ usage trends and financial risk indicators.
 
 <img width="2000" height="1125" alt="image" src="https://github.com/user-attachments/assets/6540cedc-f00b-4423-afbb-434b6c4eed53" />
 
+
+ # Insights:
+ 
+- All four account types (Current, Credit, Loan, Savings) cluster within a narrow ₹6K balance range (₹70K–₹76K), meaning account type is a weak differentiator of financial health.
+ 
+- Current accounts slightly lead with ₹76K avg balance.
+ 
+- The more meaningful distinction lies in usage patterns: Credit accounts dominate the High Net Inflow profile (top 20 accounts, threshold ₹55,894), concentrated in North and West regions.
+ 
+- Loan accounts appear more frequently in the 15 high-frequency low-balance accounts — suggesting loan-holders are servicing debt through active debiting.
+ 
+- The transaction mix is nearly flat across types: Withdrawal (26.8%), Transfer (26%), Payment (24.5%), Deposit (22.8%) — confirming that spending behavior is uniform across account types rather than type-specific.
+ 
+- Debits consistently exceed credits by 3.4× in count (618 vs 182) and at least 2× in volume every single month from Jan 2023 to Jun 2024.
+ 
+- The October 2023 debit spike (~₹2.8M) was the highest single month in the dataset. 
+ 
+- The ANOVA-confirmed segment gap tells the segment story: Premium customers (only 5% of accounts) hold ₹38,074 more on average than Basic — a statistically proven structural divide.
+ 
+- Standard segment accounts (72.2%) drive the bulk of raw transaction volume but at moderate per-account values. 
+ 
+- The key trend finding: the debit-credit gap is widening in 2024 relative to 2023 base periods, suggesting balance erosion is accelerating.
