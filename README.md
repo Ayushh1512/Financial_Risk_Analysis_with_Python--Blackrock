@@ -83,3 +83,15 @@ usage trends and financial risk indicators.
 ● Conduct hypothesis testing based on segmentation.
 
 ## Task 7: Video Presentation
+
+
+# Code File:
+
+- <a href="https://github.com/Ayushh1512/Financial_Risk_Analysis_with_Python Blackrock/blob/a3b197ea955fa1bfd895400daa321aa02f77d5ae/Blackrock_Financial_Analysis.ipynb">File</a>
+
+# Project Presentation:
+
+- <a href="https://github.com/Ayushh1512/Financial_Risk_Analysis_with_Python--Blackrock/blob/24e1498998a45826a10add76a37db2647c6cd821/Financial%20Risk%20Analysis%20with%20Python-Blackrock_PDF.pdf">PPT:</a>
+
+
+
